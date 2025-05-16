@@ -1,2 +1,6 @@
-# aurora---structure---bot
-Bot Telegram untuk Struktur aurora + analis Ai
+- `main.py`
+ 
+  - `ai_analysis.py`
+ 
+  - `requirements.txt`
+ 
